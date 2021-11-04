@@ -1,0 +1,64 @@
+#quote-box{
+    text-align: center;
+     top: 20rem;
+     font-size: 2rem;
+    
+     
+}
+
+
+#author{
+    background-color: white;
+    margin-right: 42rem;
+    margin-left: 42rem;
+
+}
+
+p{
+    margin-top: 5rem;
+    position: fixed;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    padding: 5px;
+    margin: 5px;
+    border-radius: 9px;
+    position: relative;
+    text-decoration: none;
+    cursor: pointer;
+}
+    
+h1{
+    /* text-align: center; */
+    margin-top: 3rem;
+    margin-left: 45rem;
+    font-family: "Permanent Marker";
+}
+
+body{
+    background-attachment: fixed;
+    background-color: crimson;
+    color: white;
+}
+
+a:hover{
+    color: #1DA1F2;
+}
+
+#quote-box{
+    font-family: "Lobster";
+    background-color: white;
+    padding: 4rem;
+    color: teal;
+    
+}
+
+h3, h5{
+    text-align: center;
+}
